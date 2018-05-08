@@ -1,0 +1,36 @@
+{
+  "name": "mallcms-react-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cross-env CLEAR_CONSOLE=none umi dev",
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "devDependencies": {
+    "@types/dva": "^1.1.0",
+    "@types/node": "^8.0.56",
+    "@types/react": "^16.0.27",
+    "@types/react-document-title": "^2.0.2",
+    "babel-plugin-module-resolver": "^3.0.0",
+    "ts-jest-babel-7": "^22.0.4",
+    "tslint-config-airbnb": "^5.8.0",
+    "tslint-react": "^3.5.1",
+    "umi-plugin-dva": "^0.6.1",
+    "umi-plugin-routes": "^0.1.2"
+  },
+  "dependencies": {
+    "antd": "^3.3.1",
+    "axios": "^0.18.0",
+    "dva": "^2.2.0",
+    "enquire-js": "^0.1.2",
+    "lodash-decorators": "^4.5.0",
+    "moment": "^2.21.0",
+    "rc-color-picker": "^1.2.6",
+    "rc-drawer-menu": "^0.5.6",
+    "rc-queue-anim": "^1.5.0",
+    "react-color": "^2.14.0",
+    "react-container-query": "^0.9.1",
+    "react-document-title": "^2.0.3",
+    "umi": "^1.1.6"
+  }
+}

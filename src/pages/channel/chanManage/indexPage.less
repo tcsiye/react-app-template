@@ -1,0 +1,59 @@
+.container{
+  display: flex;
+  background: #ffffff;
+  // min-height: 800px;
+  .leftBlock{
+    width: 400px;
+    padding: 20px 20px;
+    border-right: 1px solid #e8e8e8;
+    .treeBlock{
+      width: 100%;
+      height: 800px;
+      overflow: auto;
+    }
+  }
+  .rightBlock{
+    flex: 1;
+    padding: 10px 20px;
+  }
+}
+.tableList {
+  .tableListOperator {
+    margin-bottom: 16px;
+    button {
+      margin-right: 8px;
+    }
+  }
+}
+
+.tableListForm {
+  :global {
+    .ant-form-item {
+      margin-bottom: 24px;
+      margin-right: 0;
+      display: flex;
+      > .ant-form-item-label {
+        width: auto;
+        line-height: 32px;
+        padding-right: 8px;
+      }
+      .ant-form-item-control {
+        line-height: 32px;
+      }
+    }
+    .ant-form-item-control-wrapper {
+      flex: 1;
+    }
+  }
+  .submitButtons {
+    white-space: nowrap;
+    margin-bottom: 24px;
+  }
+}
+.listCard {
+  :global{
+    .ant-card-head {
+      border-bottom:none;
+    }
+  }
+}

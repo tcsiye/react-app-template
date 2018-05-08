@@ -1,0 +1,47 @@
+.color {
+  height: 32px;
+  display: inline-block;
+  vertical-align: bottom;
+};
+
+.popover {
+  position: absolute;
+  z-index: 2
+}
+.cover {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0
+}
+
+.colorBox {
+  display: inline-block;
+  background: #fff;
+}
+.warnText {
+  font-size: 14px;
+  color: #f5222d;
+}
+
+.title::after{
+  content: ":";
+  margin: 0 8px 0 2px;
+  position: relative;
+  top: -0.5px;
+}
+.title{color: rgba(0, 0, 0, 0.85);}
+.title::before{
+  display: inline-block;
+  margin-right: 4px;
+  content: "*";
+  font-family: SimSun;
+  line-height: 1;
+  font-size: 14px;
+  color: #f5222d;
+}
+.switch{
+  line-height: 4.3;
+}
+

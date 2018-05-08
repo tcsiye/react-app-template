@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "淘汽双蛋大优惠 年终狂欢抢现车",
+    "type": null,
+    "status": 1,
+    "subjectPageDTOS": null,
+    "browsingUrl":
+      "http://dev.mall.taoqicar.com:8080/mallcms/dist/index.html/#/activity/suspension?id=1",
+    "shareable": null,
+    "shareTitle": null,
+    "shareSubtitle": null,
+    "shareIconUrl": null
+  },
+  {
+    "id": 2,
+    "name": "双蛋优惠抢现车",
+    "type": null,
+    "status": 1,
+    "subjectPageDTOS": null,
+    "browsingUrl":
+      "http://dev.mall.taoqicar.com:8080/mallcms/dist/index.html/#/activity/suspension?id=2",
+    "shareable": 1,
+    "shareTitle": "12",
+    "shareSubtitle": "3424",
+    "shareIconUrl":
+      "http://images.mall.taoqicar.com/1515491861861--553914269.jpg"
+  },
+  {
+    "id": 3,
+    "name": "测试3",
+    "type": null,
+    "status": 0,
+    "subjectPageDTOS": null,
+    "browsingUrl": null,
+    "shareable": null,
+    "shareTitle": null,
+    "shareSubtitle": null,
+    "shareIconUrl": null
+  },
+  {
+    "id": 4,
+    "name": "淘汽X苏宁强强联手",
+    "type": null,
+    "status": 1,
+    "subjectPageDTOS": null,
+    "browsingUrl":
+      "http://dev.mall.taoqicar.com:8080/mallcms/dist/index.html/#/activity/suspension?id=4",
+    "shareable": 0,
+    "shareTitle": "",
+    "shareSubtitle": "",
+    "shareIconUrl":
+      "http://images.mall.taoqicar.com/1515491720608--553914269.jpg"
+  },
+  {
+    "id": 5,
+    "name": "新年礼遇",
+    "type": null,
+    "status": 1,
+    "subjectPageDTOS": null,
+    "browsingUrl":
+      "http://dev.mall.taoqicar.com:8080/mallcms/dist/index.html/#/activity/suspension?id=5",
+    "shareable": 0,
+    "shareTitle": null,
+    "shareSubtitle": null,
+    "shareIconUrl": null
+  },
+  {
+    "id": 6,
+    "name": "春节放假通知",
+    "type": null,
+    "status": 1,
+    "subjectPageDTOS": null,
+    "browsingUrl":
+      "http://dev.mall.taoqicar.com:8080/mallcms/dist/index.html/#/activity/suspension?id=6",
+    "shareable": 0,
+    "shareTitle": null,
+    "shareSubtitle": null,
+    "shareIconUrl": null
+  },
+  {
+    "id": 7,
+    "name": "春节红包活动",
+    "type": null,
+    "status": 1,
+    "subjectPageDTOS": null,
+    "browsingUrl":
+      "http://dev.mall.taoqicar.com:8080/mallcms/dist/index.html/#/activity/suspension?id=7",
+    "shareable": 1,
+    "shareTitle": "春节狂欢领红包！集齐50元秒变2400元！快来淘汽跟我拆红包吧！",
+    "shareSubtitle": "首付一成，买好车。邀请好友获得更多红包，购车直接抵月供！",
+    "shareIconUrl":
+      "http://images.mall.taoqicar.com/1518333921111--1986306257.jpg"
+  },
+  {
+    "id": 8,
+    "name": "1223",
+    "type": null,
+    "status": 1,
+    "subjectPageDTOS": null,
+    "browsingUrl":
+      "http://dev.mall.taoqicar.com:8080/mallcms/dist/index.html/#/activity/suspension?id=8",
+    "shareable": 0,
+    "shareTitle": null,
+    "shareSubtitle": null,
+    "shareIconUrl": null
+  }
+]
